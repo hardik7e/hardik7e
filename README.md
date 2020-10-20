@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey ✌️, I'm Hardik</h1>
+<h3 align="center">Tech Enthusiast</h3>
 
-<!--
-**hardik7e/hardik7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### :octocat: About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a 3rd year student persuing **Bachelors of Technology** course in Civil Engineering from **IIT Guwahati.**
+- My preferred programming language is **C++**. Also I am interested in Machine Learning.
+- I am currently learning ML and Deep Learning to build a project based on Object identification.
+- I learnt about open source and HacktoberFest recently and hence I have just started with a very few Pull Requests submissions. Hope to learn a lot from the Github Tech Community
+- 📫 How to reach me: https://www.linkedin.com/in/sensei9717/
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik7e)](https://github.com/hardik7e/github-readme-stats)
+<br/>
+![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik7e)
+
+
