@@ -5,10 +5,9 @@
 
 ### :octocat: About me
 
-- I am a 3rd year student persuing **Bachelors of Technology** course in Civil Engineering from **IIT Guwahati.**
-- My preferred programming language is **C++**. Also I am interested in Machine Learning.
-- I am currently learning ML and Deep Learning to build a project based on Object identification.
-- I learnt about open source and HacktoberFest recently and hence I have just started with a very few Pull Requests submissions. Hope to learn a lot from the Github Tech Community
+- I am a Final year student persuing **Bachelors of Technology** course in Civil Engineering from **IIT Guwahati.**
+- My preferred programming language is **C++**. Also I am interested in Web Development.
+- Open Source Contributer at Kurakoo
 - 📫 How to reach me: https://www.linkedin.com/in/sensei9717/
 
 <br/>
